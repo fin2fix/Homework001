@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Введите число");
-string numberStr1 = Console.ReadLine();
+string numberStr1 = Console.ReadLine()!;
 int a = Convert.ToInt32(numberStr1);
 Console.WriteLine("------------");
 
